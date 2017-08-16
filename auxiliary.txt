@@ -1,0 +1,266 @@
+self.addMarker({
+  'position': '-5.7949686,-35.199973'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">Av. Afonso Pena / Ceara-Mirim<br /><img id="tag-img-81" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.439.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.792196 ,-35.198873'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">AV. AFONSO PENA / RUA APODI<br /><img id="tag-img-82" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.41.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.7936565,-35.199368'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">Av. Afonso Pena / Rua Mossoró<br /><img id="tag-img-74" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/1.2.3.4.8.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.810276 ,-35.211820'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">AV. BERNARDO VIEIRA - AV. SAO JOSE<br /><img id="tag-img-146" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/0.0.0.0.1.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.802856 ,-35.232223'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">Av. Bernardo Vieira / Rua dos Pegas<br /><img id="tag-img-176" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.54.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.8117108,-35.208070'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">Av. Bernardo Vieira x Av. Romualdo Galvão<br /><img id="tag-img-54" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.30.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.820987 ,-35.233818'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">Av. Cel. Estevam / Av. Cap. Mor Gouveia - RODOVIÀRIA<br /><img id="tag-img-178" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/1.2.3.6.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.797002 ,-35.217796'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">Av. Cel. Estevam / Av. Pres. Bandeira<br /><img id="tag-img-83" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.42.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.796229 ,-35.239636'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">AV. FELIZARDO MOURA - ALTURA DO BAIRRO NORDESTE<br /><img id="tag-img-179" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/1.1.1.6527.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.783516 ,-35.201655'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">AV. FLORIANO PEIXOTO / RUA POTENGI<br /><img id="tag-img-183" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/1.4.0.3.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.796992 ,-35.199316'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">AV. HERMES DA FONSECA / RUA ÂNGELO VARELA<br /><img id="tag-img-185" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/1.4.0.4.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.8073773,-35.203285'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">Av. Hermes da Fonseca x Av. Alm. Alexandrino Alencar<br /><img id="tag-img-53" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.31.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.8197374,-35.218745'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">Av. Jaguarai x Av. Miguel Castro<br /><img id="tag-img-48" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.25.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.817322 ,-35.217828'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">Av. Jaguarari X Av. Amintas Barros<br /><img id="tag-img-144" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.8092025,-35.214872'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">Av. Jaguarari x Av. Bernardo Vieira<br /><img id="tag-img-47" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.24.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.824595 ,-35.213315'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">Av. Lima e Silva / Arena das Dunas<br /><img id="tag-img-177" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/1.2.3.4.7.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.787863 ,-35.204453'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">AV. MAL. DEODORO DA FONSECA / RUA JOÃO PESSOA<br /><img id="tag-img-182" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/1.4.0.2.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.798836 ,-35.237982'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">AV. MÁRIO NEGÓCIO / RUA JANDIRA (URBANA)<br /><img id="tag-img-186" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/1.4.0.5.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.825447 ,-35.215711'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">AV. PRUDENTE DE MORAIS / AV. JERÔNIMO CÂMARA<br /><img id="tag-img-180" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/1.4.0.0.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.787325 ,-35.201135'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">AV. PRUDENTE DE MORAIS / RUA MOSSORÓ<br /><img id="tag-img-181" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/1.4.0.1.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.8174112,-35.217418'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">Av. Romualdo Galvão / Av. Amintas Barros<br /><img id="tag-img-79" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.36.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.8062352,-35.206096'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">Av. Romualdo Galvão x Av. Alm. Alexandrino Alencar<br /><img id="tag-img-55" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.29.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.812738 ,-35.205112'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">Av. Salgado Filho x Av. Bernardo Vieira<br /><img id="tag-img-72" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.40.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.803791 ,-35.201763'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">AV.HERMES DA FONSECA ,TIROL <br /><img id="tag-img-112" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/0.0.0.89.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.803738 ,-35.201731'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">AV.HERMES DA FONSECA ,TIROL <br /><img id="tag-img-113" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/0.0.0.89.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.825763 ,-35.220871'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">JAGUARARI / MOR GOUVEIA<br /><img id="tag-img-117" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.48.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.814465 ,-35.21686 '
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">JAGUARARI / NASCIMENTO DE CASTRO<br /><img id="tag-img-119" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.50.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.841453 ,-35.221182'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">PRUDENTE DE MORAIS - INTEGRACAO<br /><img id="tag-img-147" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/0.0.0.0.2.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.821728 ,-35.213648'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">PRUDENTE DE MORAIS - MIGUEL CASTRO<br /><img id="tag-img-148" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/0.0.0.0.3.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.819086 ,-35.212825'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">PRUDENTE DE MORAIS / AMINTAS BARROS<br /><img id="tag-img-122" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.53.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.811145 ,-35.209929'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">PRUDENTE DE MORAIS / BERNARDO VIEIRA<br /><img id="tag-img-84" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.43.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.786555 ,-35.20706 '
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">RIO BRANCO / JOÃO PESSOA<br /><img id="tag-img-118" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.49.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.814251 ,-35.209042'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">ROMUALDO GALVAO - ANTONIO BASILIO<br /><img id="tag-img-85" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.44.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.81978  ,-35.211033'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">ROMUALDO GALVAO / AMINTAS BARROS<br /><img id="tag-img-121" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.52.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.781682 ,-35.197385'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">RUA NILO PEÇANHA / RUA CEL. JOAQUIM MANOEL - MATERNIDADE JANUARIO CICCO<br /><img id="tag-img-115" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.46.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.815596 ,-35.206138'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">SALGADO FILHO - ANTONIO BASLIO<br /><img id="tag-img-149" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/0.0.0.0.4.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.820922 ,-35.208061'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">SALGADO FILHO x AMINTAS BARROS<br /><img id="tag-img-120" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.51.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});
+self.addMarker({
+  'position': '-5.824669 ,-35.217273'
+}).click(function() {
+  self.openInfoWindow({
+    'content': '<div style="width:250px;height:200px;overflow:hidden;font-size:11px;">SÃO JOSÉ / JERÔNIMO CÂMARA<br /><img id="tag-img-116" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.47.jpg" alt="Carregando.." style="width:100%;height:auto;"  /></div>'
+  }, this);
+});

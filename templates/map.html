@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Mapa das câmeras de Natal/RN</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <style>
+      body {
+        padding-top: 5rem;
+      }
+      #map {
+        height: 600px;
+        width: 100%;
+      }
+      .footer {
+        position: absolute;
+        /*bottom: 0;*/
+        width: 100%;
+        height: 60px;
+        line-height: 60px;
+        background-color: #f5f5f5;
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+      <a class="navbar-brand" href="/">Câmeras de Natal/RN</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/">Início</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="/map">Mapa <span class="sr-only">(current)</span></a>
+          </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+    </nav>
+    <div class="container-fluid">
+      <div id="map"></div>
+    </div>
+    <footer class="footer">
+      <div class="container">
+        <span class="text-muted">Made with <a href="#"><i class="fa fa-github" aria-hidden="true"></i></a></span>
+      </div>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+      function initMap() {
+        const natal = {lat: -5.8058673, lng: -35.2187925}
+        const map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 14,
+          center: natal
+        })
+        const iconCamera = 'https://scontent.fnat2-1.fna.fbcdn.net/v/t34.0-12/20864231_10208202203246413_698997043_n.png?oh=b5f18a801288efad411ab2a01c422b4b&oe=5996D31E';
+
+        const points = [
+          {lat: -5.7949686, lng: -35.199973},
+          {lat: -5.792196, lng: -35.198873},
+          {lat: -5.7936565, lng: -35.199368},
+          {lat: -5.810276, lng: -35.211820},
+          {lat: -5.802856, lng: -35.232223},
+          {lat: -5.8117108, lng: -35.208070},
+          {lat: -5.820987, lng: -35.233818},
+          {lat: -5.797002, lng: -35.217796},
+          {lat: -5.796229, lng: -35.239636},
+          {lat: -5.783516, lng: -35.201655},
+          {lat: -5.796992, lng: -35.199316},
+          {lat: -5.8073773, lng: -35.203285},
+          {lat: -5.8197374, lng: -35.218745},
+          {lat: -5.817322, lng: -35.217828},
+          {lat: -5.8092025, lng: -35.214872},
+          {lat: -5.824595, lng: -35.213315},
+          {lat: -5.787863, lng: -35.204453},
+          {lat: -5.798836, lng: -35.237982},
+          {lat: -5.825447, lng: -35.215711},
+          {lat: -5.787325, lng: -35.201135},
+          {lat: -5.8174112, lng: -35.217418},
+          {lat: -5.8062352, lng: -35.206096},
+          {lat: -5.812738, lng: -35.205112},
+          {lat: -5.803791, lng: -35.201763},
+          {lat: -5.803738, lng: -35.201731},
+          {lat: -5.825763, lng: -35.220871},
+          {lat: -5.814465, lng: -35.21686},
+          {lat: -5.841453, lng: -35.221182},
+          {lat: -5.821728, lng: -35.213648},
+          {lat: -5.819086, lng: -35.212825},
+          {lat: -5.811145, lng: -35.209929},
+          {lat: -5.786555, lng: -35.20706},
+          {lat: -5.814251, lng: -35.209042},
+          {lat: -5.81978, lng: -35.211033},
+          {lat: -5.781682, lng: -35.197385},
+          {lat: -5.815596, lng: -35.206138},
+          {lat: -5.820922, lng: -35.208061},
+          {lat: -5.824669, lng: -35.217273}
+        ]
+
+        points.map(point => {
+          const contentString = `<h4>Descrição</h4>
+                                 <img style="width: 400px;" src="http://transito.gtrans.com.br/sttunatal/files/imgs_cam/192.168.4.47.jpg" alt="Imagem da"/>`
+          const infowindow = new google.maps.InfoWindow({
+            content: contentString
+          })
+          const marker = new google.maps.Marker({
+            icon: iconCamera,
+            title: 'Descrição',
+            position: point,
+            map: map
+          })
+          marker.addListener('click', function() {
+            infowindow.open(map, marker)
+          })
+        })
+      }
+    </script>
+    <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZCSFJdJ_yuNbaL8znVr1HHuDsCCbpevU&callback=initMap"></script>
+  </body>
+</html>
