@@ -25,4 +25,6 @@ def index():
 def map():
     return render_template('map.html')
 
-app.run(debug=True, use_reloader=True)
+
+if __name__ == '__main__':
+    app.run(debug=True, use_reloader=True)
